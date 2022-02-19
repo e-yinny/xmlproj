@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/css" href="xml.css"?>
+<songList>
+    <artist>
+        <name>Birdy</name>
+        <title>Skinny Love</title>
+        <genre>Pop</genre>
+        <genre>Alternative/Indie</genre>
+        <year>2011</year>
+    </artist>
+    <artist>
+        <name>Coldplay</name>
+        <title>Yellow</title>
+        <genre>Alternative/Indie</genre>
+        <year>2000</year>
+    </artist>
+    <artist>
+        <name>Dizzee Rascal</name>
+        <title>Dance Wiv Me</title>
+        <genre>Hip Hop</genre>
+        <year>2008</year>
+    </artist>
+    <artist>
+        <name>Rihanna</name>
+        <title>Stay</title>
+        <genre>Pop</genre>
+        <year>2012</year>
+    </artist>
+    <artist>
+        <name>One Republic</name>
+        <title>I Lived</title>
+        <genre>Pop</genre>
+        <year>2013</year>
+    </artist>
+    <artist>
+        <name>Mac Miller</name>
+        <title>Weekend</title>
+        <genre>Hip Hop</genre>
+        <year>2015</year>
+    </artist>
+    <artist>
+        <name>Halsey</name>
+        <title>Be Kind</title>
+        <genre>Alternative/Indie</genre>
+        <year>2020</year>
+    </artist>
+    <artist>
+        <name>Elton John</name>
+        <title>Can you Feel the Love Tonight</title>
+        <genre>Soft Rock</genre>
+        <year>1994</year>
+    </artist>
+    <artist>
+        <name>G-Eazy</name>
+        <title>Good Life</title>
+        <genre>Pop</genre>
+        <year>2013</year>
+    </artist>
+    <artist>
+        <name>Linkin Park</name>
+        <title>Alone Together</title>
+        <genre>Rock</genre>
+        <year>2011</year>
+    </artist>
+</songList>
